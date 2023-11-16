@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="brainstorm-onderwerp-veranderen" />
+        <module name="Opdracht3_Deel1" />
       </profile>
     </annotationProcessing>
   </component>

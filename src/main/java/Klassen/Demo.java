@@ -153,7 +153,7 @@ public class Demo implements Serializable {
     public Status confirmeer()
     {
         if (status.getCode() == 2) {
-            status = Status.Geconfirmeerd;
+            status = Status.GECONFIRMEERD;
         }
         return status;
     }
@@ -168,7 +168,7 @@ public class Demo implements Serializable {
     public Status voerUit()
     {
         if (status.getCode() == 3) {
-            status = Status.Uitgevoerd;
+            status = Status.UITGEVOERD;
         }
         return status;
     }

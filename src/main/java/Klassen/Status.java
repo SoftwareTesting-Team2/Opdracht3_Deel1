@@ -3,8 +3,8 @@ package Klassen;
 public enum Status {
     KIEZEN(1, "Ambassadeur selecteren"),
     WACHTEN(2, "Wachten op antwoord"),
-    Geconfirmeerd(3, "Geconfirmeerd"),
-    Uitgevoerd(4, "Uitgevoerd");
+    GECONFIRMEERD(3, "Geconfirmeerd"),
+    UITGEVOERD(4, "Uitgevoerd");
     private final int code;
     private final String description;
     private Status(int code, String description) {

@@ -18,7 +18,7 @@ Functionaliteit: De status van een demo veranderen bij het inplannen
   Scenario: De ambassadeur bevestigt dat hij de demo gaat geven
     Gegeven er is een ambassadeur geselecteerd voor de demo
     Wanneer de ambassadeur bevestigt dat hij de demo gaat geven
-    Dan zou de status van de demo "Geconfirmeerd" moeten zijn
+    Dan zou de status van de demo "GECONFIRMEERD" moeten zijn
 
   Scenario: De ambassadeur weigert de demo te geven
     Gegeven er is een ambassadeur geselecteerd voor de demo
@@ -28,4 +28,4 @@ Functionaliteit: De status van een demo veranderen bij het inplannen
   Scenario: De demo wordt uitgevoerd
     Gegeven de demo is bevestigd door de ambassadeur
     Wanneer de demo wordt uitgevoerd
-    Dan zou de status van de demo "Uitgevoerd" moeten zijn
+    Dan zou de status van de demo "UITGEVOERD" moeten zijn
