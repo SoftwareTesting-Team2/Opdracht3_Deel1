@@ -5,7 +5,7 @@ Functionaliteit: De status bij het inplannen van een demo veranderen voor het sc
   Voor een demo moet een ambassadeur geselecteerd worden, die moet kiezen of hij confirmeert of weigert en moet de demo ten slotte uitvoeren.
 
   Op een demo dat aangemaakt is kan een ambassadeur worden gezet.
-  Zodra ambassadeur kiest of confirmeert en naar de volgende stap gaat of we opnieuw een ambassadeur moeten kiezen.
+  Zodra ambassadeur weigert moet er opnieuw een ambassadeur gekozen worden, als die confirmeert moet de demo alleen nog uitgevoerd worden.
   Zodra de demo wordt uitgevoerd is hij gesloten.
 
   Achtergrond:
