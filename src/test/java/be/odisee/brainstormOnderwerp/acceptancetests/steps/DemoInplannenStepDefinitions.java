@@ -13,7 +13,6 @@ import static org.junit.Assert.assertNull;
 public class DemoInplannenStepDefinitions {
     private Demo demo;
 
-
     @Gegeven("^er is een demo aangemaakt$")
     public void er_is_een_demo_aangemaakt()
     {
